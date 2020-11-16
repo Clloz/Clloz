@@ -4,8 +4,6 @@ I'm a front-end enginner, I love Programming and Guitar. I can speak 中文, Eng
 You can connect me by 
 [![Outlook Badge](https://img.shields.io/badge/-clloz@outlook.com-137ad1?style=plastic&logo=microsoft-outlook&logoColor=white&link=mailto:clloz@outlook.com)](mailto:clloz@outlook.com)
 [![Outlook Badge](https://img.shields.io/badge/-clloz1992@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:clloz1992@gmail.com)](mailto:clloz1992@gmail.com)
-[![Zhihu Badge](https://img.shields.io/badge/-知乎-1787fc?style=plastic&logo=zhihu&logoColor=white&link=https://www.zhihu.com/people/Clloz)](https://www.zhihu.com/people/Clloz)
-[QQ Badge](https://img.shields.io/badge/-22374308-e1202e?style=plastic&logo=tencent-qq&logoColor=white)
 
 - 🏚 I'm currently working at **Clloz** 🦄
 - 🖥 I use daily:
