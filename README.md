@@ -17,14 +17,15 @@ You can connect me by
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 💻 I work using:
+  ![Emacs](https://img.shields.io/badge/-Emacs-7f5db4?style=plastic&logo=gnu-emacs&logoColor=white)
+- 🎸 I work using:
   ![React](https://img.shields.io/badge/-React-67dbf9?style=plastic&logo=react&logoColor=white)
   ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=plastic&logo=webpack&logoColor=222222)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
-- 🌱 Learning all about:
+- 🌱 I'm also learning:
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
