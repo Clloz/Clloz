@@ -37,8 +37,11 @@ You can connect me by
 -------
 #### :sparkles: My followers
 <!--START_SECTION:top-followers-->
+
 <!--END_SECTION:top-followers-->
+
 -------
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
