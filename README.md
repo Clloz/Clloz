@@ -37,11 +37,51 @@ You can connect me by
 -------
 #### :sparkles: My followers
 <!--START_SECTION:top-followers-->
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ab25cq">
+        <img src="https://avatars2.githubusercontent.com/u/3233635" width="100px;" alt="ab25cq"/>
+      </a>
+      <br />
+      <a href="https://github.com/ab25cq">DAISUKE MINATO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/freemanpeng">
+        <img src="https://avatars2.githubusercontent.com/u/37547040" width="100px;" alt="freemanpeng"/>
+      </a>
+      <br />
+      <a href="https://github.com/freemanpeng">freemanpeng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lianyunvjue">
+        <img src="https://avatars2.githubusercontent.com/u/39094541" width="100px;" alt="lianyunvjue"/>
+      </a>
+      <br />
+      <a href="https://github.com/lianyunvjue">Niki</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wenxiuceo">
+        <img src="https://avatars2.githubusercontent.com/u/41312718" width="100px;" alt="wenxiuceo"/>
+      </a>
+      <br />
+      <a href="https://github.com/wenxiuceo">momo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Clloz1992">
+        <img src="https://avatars2.githubusercontent.com/u/71883906" width="100px;" alt="Clloz1992"/>
+      </a>
+      <br />
+      <a href="https://github.com/Clloz1992">Clloz1992</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 -------
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
