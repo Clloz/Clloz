@@ -36,3 +36,6 @@ You can connect me by
 
 -------
 #### :sparkles: My followers
+
+-------
+#### :bar_chart: Weekly development breakdown
