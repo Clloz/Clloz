@@ -82,6 +82,10 @@ You can connect me by
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       5 hrs 45 mins   █████████░░░░░░░░░░░░░░░░   36.17 % 
+JavaScript   4 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 % 
+CSS          1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+JSON         1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Groovy       35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 <!--END_SECTION:waka-->
