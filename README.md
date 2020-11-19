@@ -30,9 +30,12 @@ You can connect me by
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 -------
 ![Clloz's github stats](https://github-readme-stats.vercel.app/api?username=Clloz&show_icons=true&theme=dark)
+<br/>
 [![webpack-template](https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=webpack-template&show_icons=true&theme=dark)](https://github.com/Clloz/webpack-template)
+<br/>
 [![booklist](https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=booklist&show_icons=true&theme=dark)](https://github.com/Clloz/booklist)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact)](https://github.com/Clloz)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=dark)](https://github.com/Clloz)
 
 -------
 #### :sparkles: My followers
