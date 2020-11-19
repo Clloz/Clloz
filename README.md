@@ -37,6 +37,7 @@ You can connect me by
 <br />
 <a href="https://github.com/Clloz/webpack-template"><img alt="webpack-template" style="display: inline-block; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=webpack-template&show_icons=true&theme=dark"></a><a href="https://github.com/Clloz/booklist"><img alt="booklist" style="display: inline-block; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=booklist&show_icons=true&theme=dark"></a>
 
+<br />
 <img alt="Clloz's Top Langs" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=vue">
 
 -------
