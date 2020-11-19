@@ -17,14 +17,14 @@ You can connect me by
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Emacs](https://img.shields.io/badge/-Emacs-7f5db4?style=plastic&logo=gnu-emacs&logoColor=white)
-- 🎸 I work using:
+- 🎸 I also use:
   ![React](https://img.shields.io/badge/-React-67dbf9?style=plastic&logo=react&logoColor=white)
   ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=plastic&logo=webpack&logoColor=222222)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
-- 🌱 I'm also learning:
+- 🌱 I'm learning these:
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
@@ -37,7 +37,7 @@ You can connect me by
 <br />
 <a href="https://github.com/Clloz/webpack-template"><img alt="webpack-template" style="display: inline-block; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=webpack-template&show_icons=true&theme=dark"></a><a href="https://github.com/Clloz/booklist"><img alt="booklist" style="display: inline-block; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=booklist&show_icons=true&theme=dark"></a>
 
-<img alt="Clloz's Top Langs" align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=vue">
+<img alt="Clloz's Top Langs" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=vue">
 
 -------
 #### :sparkles: My followers
