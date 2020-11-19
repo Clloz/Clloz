@@ -1,6 +1,7 @@
 ### Hi 👋, I'm [Clloz!](https://www.clloz.com) ☘️ from 🇨🇳
 ----------
 <img alt="Clloz's Top Langs" style="display: inline-block; float: right; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=vue-dark">
+
 I'm a front-end enginner, I love Programming and Guitar. I can speak 中文, English and 日本語.
 You can connect me by 
 [![Outlook Badge](https://img.shields.io/badge/-clloz@outlook.com-137ad1?style=plastic&logo=microsoft-outlook&logoColor=white&link=mailto:clloz@outlook.com)](mailto:clloz@outlook.com)
