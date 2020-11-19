@@ -31,10 +31,12 @@ You can connect me by
   
 -------
 
-<img alt="Clloz's github stats" style="display: inline-block; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=Clloz&show_icons=true&theme=dark"><img alt="Clloz's Top Langs" style="display: inline-block; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=radical">
+<img alt="Clloz's github stats" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Clloz&show_icons=true&theme=dark">
 
 <br />
 <a href="https://github.com/Clloz/webpack-template"><img alt="webpack-template" style="display: inline-block; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=webpack-template&show_icons=true&theme=dark"></a><a href="https://github.com/Clloz/booklist"><img alt="booklist" style="display: inline-block; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=booklist&show_icons=true&theme=dark"></a>
+<br />
+<img alt="Clloz's Top Langs" style="display: inline-block; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=vue-dark">
 
 -------
 #### :sparkles: My followers
