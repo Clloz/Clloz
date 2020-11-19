@@ -31,13 +31,13 @@ You can connect me by
   
 -------
 
-<img align="left" alt="Clloz's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Clloz&show_icons=true&theme=dark">
-<img align="right" alt="Clloz's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=shades-of-purple">
+div
+<img alt="Clloz's github stats" style="display: inline-block; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=Clloz&show_icons=true&theme=dark">
+<img alt="Clloz's Top Langs" style="display: inline-block; width: 41%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=shades-of-purple">
 
 <br />
-
-[![webpack-template](https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=webpack-template&show_icons=true&theme=dark)](https://github.com/Clloz/webpack-template)
-[![booklist](https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=booklist&show_icons=true&theme=dark)](https://github.com/Clloz/booklist)
+<a href="https://github.com/Clloz/webpack-template"><img alt="webpack-template" style="display: inline-block; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=webpack-template&show_icons=true&theme=dark"></a>
+<a href="https://github.com/Clloz/booklist"><img alt="booklist" style="display: inline-block; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=booklist&show_icons=true&theme=dark"></a>
 
 -------
 #### :sparkles: My followers
