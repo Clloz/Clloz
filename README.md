@@ -29,10 +29,9 @@ You can connect me by
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 -------
-![Clloz's github stats](https://github-readme-stats.vercel.app/api?username=Clloz&show_icons=true&theme=dark)
-<br/>
+<img align="left" alt="Clloz's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Clloz&show_icons=true&theme=dark>
+
 [![webpack-template](https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=webpack-template&show_icons=true&theme=dark)](https://github.com/Clloz/webpack-template)
-<br/>
 [![booklist](https://github-readme-stats.vercel.app/api/pin/?username=Clloz&repo=booklist&show_icons=true&theme=dark)](https://github.com/Clloz/booklist)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clloz&layout=compact&show_icons=true&theme=dark)](https://github.com/Clloz)
