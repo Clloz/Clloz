@@ -57,6 +57,13 @@ You can connect me by
       <a href="https://github.com/freemanpeng">freemanpeng</a>
     </td>
     <td align="center">
+      <a href="https://github.com/AlexStacker">
+        <img src="https://avatars2.githubusercontent.com/u/7822744" width="100px;" alt="AlexStacker"/>
+      </a>
+      <br />
+      <a href="https://github.com/AlexStacker">AlexStacker</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/SedationH">
         <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="SedationH"/>
       </a>
@@ -84,6 +91,8 @@ You can connect me by
       <br />
       <a href="https://github.com/wenxiuceo">momo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Clloz1992">
         <img src="https://avatars2.githubusercontent.com/u/71883906" width="100px;" alt="Clloz1992"/>
