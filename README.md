@@ -122,11 +122,11 @@ You can connect me by
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Vue.js       22 hrs 38 mins  █████████████████▒░░░░░░░   69.34 % 
-JavaScript   6 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 % 
-Org          2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-sh           38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Vue.js       28 hrs 5 mins   ████████████████████░░░░░   79.85 % 
+JavaScript   4 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Org          1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+sh           44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
 
