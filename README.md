@@ -1,13 +1,13 @@
 ### Hi 👋, I'm [Clloz!](https://www.clloz.com) ☘️ from 🇨🇳
 ----------
 
-I'm a front-end enginner, I love Programming and Guitar. I can speak 中文, English and 日本語.
-You can connect me by 
+I'm a front-end engineer, I love Programming and Guitar. I can speak 中文, English and 日本語.
+You can contact me at 
 [![Outlook Badge](https://img.shields.io/badge/-clloz@outlook.com-137ad1?style=plastic&logo=microsoft-outlook&logoColor=white&link=mailto:clloz@outlook.com)](mailto:clloz@outlook.com)
 [![Outlook Badge](https://img.shields.io/badge/-clloz1992@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:clloz1992@gmail.com)](mailto:clloz1992@gmail.com)
 
 - 🏚 I'm currently working at **Clloz** 🦄
-- 🖥 I use daily:
+- 🖥 I use daily: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Vue](https://img.shields.io/badge/-Vue.js-54bf8e?style=plastic&logo=vue.js&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1e74b4?style=plastic&logo=css3&logoColor=white)
