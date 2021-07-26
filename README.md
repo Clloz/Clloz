@@ -82,7 +82,7 @@ You can connect me by
         <img src="https://avatars2.githubusercontent.com/u/39094541" width="100px;" alt="lianyunvjue"/>
       </a>
       <br />
-      <a href="https://github.com/lianyunvjue">Niki</a>
+      <a href="https://github.com/lianyunvjue">Nicky</a>
     </td>
     <td align="center">
       <a href="https://github.com/LesslsMore">
