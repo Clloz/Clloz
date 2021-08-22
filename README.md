@@ -43,6 +43,13 @@ You can connect me by
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ajauntor">
+        <img src="https://avatars2.githubusercontent.com/u/76894619" width="100px;" alt="ajauntor"/>
+      </a>
+      <br />
+      <a href="https://github.com/ajauntor">AJ Auntor</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ab25cq">
         <img src="https://avatars2.githubusercontent.com/u/3233635" width="100px;" alt="ab25cq"/>
       </a>
@@ -84,6 +91,8 @@ You can connect me by
       <br />
       <a href="https://github.com/lianyunvjue">Nicky</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/LesslsMore">
         <img src="https://avatars2.githubusercontent.com/u/39825147" width="100px;" alt="LesslsMore"/>
@@ -91,8 +100,6 @@ You can connect me by
       <br />
       <a href="https://github.com/LesslsMore">LesslsMore</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/EVINK">
         <img src="https://avatars2.githubusercontent.com/u/14816851" width="100px;" alt="EVINK"/>
