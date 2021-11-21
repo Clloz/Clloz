@@ -85,14 +85,21 @@ You can connect me by
       <a href="https://github.com/lianyunvjue">Nicky</a>
     </td>
     <td align="center">
+      <a href="https://github.com/RyzeCheng">
+        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="RyzeCheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/RyzeCheng">Ryze</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/LesslsMore">
         <img src="https://avatars2.githubusercontent.com/u/39825147" width="100px;" alt="LesslsMore"/>
       </a>
       <br />
       <a href="https://github.com/LesslsMore">LesslsMore</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/EVINK">
         <img src="https://avatars2.githubusercontent.com/u/14816851" width="100px;" alt="EVINK"/>
