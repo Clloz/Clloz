@@ -129,11 +129,11 @@ You can connect me by
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-TypeScript   14 hrs 13 mins  ██████████▓░░░░░░░░░░░░░░   42.26 % 
-JavaScript   11 hrs 30 mins  ████████▓░░░░░░░░░░░░░░░░   34.19 % 
-sh           4 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Org          1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-JSON         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TypeScript   14 hrs 13 mins  ██████████▒░░░░░░░░░░░░░░   40.96 % 
+JavaScript   11 hrs 38 mins  ████████▒░░░░░░░░░░░░░░░░   33.51 % 
+sh           5 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Org          1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+HTML         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 <!--END_SECTION:waka-->
 
