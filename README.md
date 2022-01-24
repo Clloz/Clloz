@@ -129,11 +129,11 @@ You can connect me by
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-sh       6 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   34.21 % 
-YAML     4 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.93 % 
-Vue.js   1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Java     1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Groovy   1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+sh       7 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   31.85 % 
+YAML     5 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Vue.js   1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Java     1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Groovy   1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 <!--END_SECTION:waka-->
 
