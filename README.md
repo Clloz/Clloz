@@ -129,9 +129,7 @@ You can connect me by
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-sh    39 mins         ████████████░░░░░░░░░░░░░   47.50 % 
-Org   26 mins         ████████░░░░░░░░░░░░░░░░░   32.16 % 
-C     16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
