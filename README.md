@@ -108,6 +108,13 @@ You can connect me by
       <a href="https://github.com/EVINK">EvinK</a>
     </td>
     <td align="center">
+      <a href="https://github.com/keyasu">
+        <img src="https://avatars2.githubusercontent.com/u/17979751" width="100px;" alt="keyasu"/>
+      </a>
+      <br />
+      <a href="https://github.com/keyasu">Hand of the King</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/wenxiuceo">
         <img src="https://avatars2.githubusercontent.com/u/41312718" width="100px;" alt="wenxiuceo"/>
       </a>
