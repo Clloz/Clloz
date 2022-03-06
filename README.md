@@ -64,18 +64,18 @@ You can connect me by
       <a href="https://github.com/AlexStacker">AlexStacker</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gzg1023">
-        <img src="https://avatars2.githubusercontent.com/u/25383924" width="100px;" alt="gzg1023"/>
-      </a>
-      <br />
-      <a href="https://github.com/gzg1023">清尘</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/RyzeChang">
         <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="RyzeChang"/>
       </a>
       <br />
       <a href="https://github.com/RyzeChang">Ryze</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gzg1023">
+        <img src="https://avatars2.githubusercontent.com/u/25383924" width="100px;" alt="gzg1023"/>
+      </a>
+      <br />
+      <a href="https://github.com/gzg1023">清尘</a>
     </td>
     <td align="center">
       <a href="https://github.com/lianyunvjue">
