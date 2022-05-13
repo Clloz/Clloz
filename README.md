@@ -94,6 +94,13 @@ You can connect me by
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/QiuYeDx">
+        <img src="https://avatars2.githubusercontent.com/u/71062076" width="100px;" alt="QiuYeDx"/>
+      </a>
+      <br />
+      <a href="https://github.com/QiuYeDx">Bai Zihan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/LesslsMore">
         <img src="https://avatars2.githubusercontent.com/u/39825147" width="100px;" alt="LesslsMore"/>
       </a>
