@@ -122,6 +122,13 @@ You can connect me by
       <a href="https://github.com/keyasu">Hand of the King</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Vanisper">
+        <img src="https://avatars2.githubusercontent.com/u/55046983" width="100px;" alt="Vanisper"/>
+      </a>
+      <br />
+      <a href="https://github.com/Vanisper">Vanisper</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/wenxiuceo">
         <img src="https://avatars2.githubusercontent.com/u/41312718" width="100px;" alt="wenxiuceo"/>
       </a>
@@ -134,13 +141,6 @@ You can connect me by
       </a>
       <br />
       <a href="https://github.com/Ian-HL">HL-Ian</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Clloz1992">
-        <img src="https://avatars2.githubusercontent.com/u/71883906" width="100px;" alt="Clloz1992"/>
-      </a>
-      <br />
-      <a href="https://github.com/Clloz1992">Clloz1992</a>
     </td>
   </tr>
 </table>
