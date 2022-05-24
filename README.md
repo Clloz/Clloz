@@ -71,18 +71,18 @@ You can connect me by
       <a href="https://github.com/RyzeChang">Ryze</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lianyunvjue">
-        <img src="https://avatars2.githubusercontent.com/u/39094541" width="100px;" alt="lianyunvjue"/>
-      </a>
-      <br />
-      <a href="https://github.com/lianyunvjue">Nicky</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gzg1023">
         <img src="https://avatars2.githubusercontent.com/u/25383924" width="100px;" alt="gzg1023"/>
       </a>
       <br />
       <a href="https://github.com/gzg1023">清尘</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lianyunvjue">
+        <img src="https://avatars2.githubusercontent.com/u/39094541" width="100px;" alt="lianyunvjue"/>
+      </a>
+      <br />
+      <a href="https://github.com/lianyunvjue">Nicky</a>
     </td>
     <td align="center">
       <a href="https://github.com/SedationH">
