@@ -57,18 +57,18 @@ You can connect me by
       <a href="https://github.com/freemanpeng">freemanpeng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/RyzeChang">
-        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="RyzeChang"/>
-      </a>
-      <br />
-      <a href="https://github.com/RyzeChang">Ryze</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AlexStacker">
         <img src="https://avatars2.githubusercontent.com/u/7822744" width="100px;" alt="AlexStacker"/>
       </a>
       <br />
       <a href="https://github.com/AlexStacker">AlexStacker</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RyzeChang">
+        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="RyzeChang"/>
+      </a>
+      <br />
+      <a href="https://github.com/RyzeChang">Ryze</a>
     </td>
     <td align="center">
       <a href="https://github.com/lianyunvjue">
