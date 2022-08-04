@@ -57,18 +57,18 @@ You can connect me by
       <a href="https://github.com/freemanpeng">freemanpeng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/RyzeChang">
-        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="RyzeChang"/>
-      </a>
-      <br />
-      <a href="https://github.com/RyzeChang">Ryze</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AlexStacker">
         <img src="https://avatars2.githubusercontent.com/u/7822744" width="100px;" alt="AlexStacker"/>
       </a>
       <br />
       <a href="https://github.com/AlexStacker">AlexStacker</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RyzeChang">
+        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="RyzeChang"/>
+      </a>
+      <br />
+      <a href="https://github.com/RyzeChang">Ryze</a>
     </td>
     <td align="center">
       <a href="https://github.com/gzg1023">
@@ -108,6 +108,13 @@ You can connect me by
       <a href="https://github.com/Vanisper">Vanisper</a>
     </td>
     <td align="center">
+      <a href="https://github.com/keyasu">
+        <img src="https://avatars2.githubusercontent.com/u/17979751" width="100px;" alt="keyasu"/>
+      </a>
+      <br />
+      <a href="https://github.com/keyasu">Hand of the King</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/LesslsMore">
         <img src="https://avatars2.githubusercontent.com/u/39825147" width="100px;" alt="LesslsMore"/>
       </a>
@@ -120,13 +127,6 @@ You can connect me by
       </a>
       <br />
       <a href="https://github.com/EVINK">EvinK</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/keyasu">
-        <img src="https://avatars2.githubusercontent.com/u/17979751" width="100px;" alt="keyasu"/>
-      </a>
-      <br />
-      <a href="https://github.com/keyasu">Hand of the King</a>
     </td>
     <td align="center">
       <a href="https://github.com/wenxiuceo">
