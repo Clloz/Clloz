@@ -151,9 +151,8 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```text
-YAML         19 mins         ██████████▒░░░░░░░░░░░░░░   41.29 %
-HTML         15 mins         ████████▒░░░░░░░░░░░░░░░░   33.67 %
-TypeScript   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
+sh     10 mins         █████████████░░░░░░░░░░░░   52.18 %
+YAML   9 mins          ████████████░░░░░░░░░░░░░   47.82 %
 ```
 
 <!--END_SECTION:waka-->
