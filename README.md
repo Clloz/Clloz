@@ -151,8 +151,7 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```text
-sh     20 mins         ███████████████████░░░░░░   75.68 %
-HTML   6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.32 %
+sh   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
