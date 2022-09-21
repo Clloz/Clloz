@@ -71,13 +71,6 @@ You can connect me by
       <a href="https://github.com/AlexStacker">AlexStacker</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gzg1023">
-        <img src="https://avatars2.githubusercontent.com/u/25383924" width="100px;" alt="gzg1023"/>
-      </a>
-      <br />
-      <a href="https://github.com/gzg1023">清尘</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lianyunvjue">
         <img src="https://avatars2.githubusercontent.com/u/39094541" width="100px;" alt="lianyunvjue"/>
       </a>
@@ -91,8 +84,6 @@ You can connect me by
       <br />
       <a href="https://github.com/SedationH">SedationH</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/QiuYeDx">
         <img src="https://avatars2.githubusercontent.com/u/71062076" width="100px;" alt="QiuYeDx"/>
@@ -100,6 +91,8 @@ You can connect me by
       <br />
       <a href="https://github.com/QiuYeDx">Bai Zihan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Vanisper">
         <img src="https://avatars2.githubusercontent.com/u/55046983" width="100px;" alt="Vanisper"/>
@@ -134,6 +127,13 @@ You can connect me by
       </a>
       <br />
       <a href="https://github.com/wenxiuceo">momo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gzg1023">
+        <img src="https://avatars2.githubusercontent.com/u/25383924" width="100px;" alt="gzg1023"/>
+      </a>
+      <br />
+      <a href="https://github.com/gzg1023">清尘</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ian-HL">
