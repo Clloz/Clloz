@@ -85,14 +85,21 @@ You can connect me by
       <a href="https://github.com/SedationH">SedationH</a>
     </td>
     <td align="center">
+      <a href="https://github.com/prcups">
+        <img src="https://avatars2.githubusercontent.com/u/20960986" width="100px;" alt="prcups"/>
+      </a>
+      <br />
+      <a href="https://github.com/prcups">SignKirigami</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/QiuYeDx">
         <img src="https://avatars2.githubusercontent.com/u/71062076" width="100px;" alt="QiuYeDx"/>
       </a>
       <br />
       <a href="https://github.com/QiuYeDx">Bai Zihan</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Vanisper">
         <img src="https://avatars2.githubusercontent.com/u/55046983" width="100px;" alt="Vanisper"/>
@@ -134,13 +141,6 @@ You can connect me by
       </a>
       <br />
       <a href="https://github.com/gzg1023">清尘</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ian-HL">
-        <img src="https://avatars2.githubusercontent.com/u/13363533" width="100px;" alt="Ian-HL"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ian-HL">HL-Ian</a>
     </td>
   </tr>
 </table>
