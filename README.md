@@ -78,18 +78,18 @@ You can connect me by
       <a href="https://github.com/lianyunvjue">Nicky</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SedationH">
-        <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="SedationH"/>
-      </a>
-      <br />
-      <a href="https://github.com/SedationH">SedationH</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/prcups">
         <img src="https://avatars2.githubusercontent.com/u/20960986" width="100px;" alt="prcups"/>
       </a>
       <br />
       <a href="https://github.com/prcups">SignKirigami</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SedationH">
+        <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="SedationH"/>
+      </a>
+      <br />
+      <a href="https://github.com/SedationH">SedationH</a>
     </td>
   </tr>
   <tr>
