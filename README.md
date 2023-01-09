@@ -47,7 +47,7 @@ You can connect me by
         <img src="https://avatars2.githubusercontent.com/u/3233635" width="100px;" alt="ab25cq"/>
       </a>
       <br />
-      <a href="https://github.com/ab25cq">ab25cq</a>
+      <a href="https://github.com/ab25cq">野良プログラマー</a>
     </td>
     <td align="center">
       <a href="https://github.com/freemanpeng">
