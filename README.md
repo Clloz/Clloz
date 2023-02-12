@@ -47,7 +47,7 @@ You can connect me by
         <img src="https://avatars2.githubusercontent.com/u/3233635" width="100px;" alt="ab25cq"/>
       </a>
       <br />
-      <a href="https://github.com/ab25cq">野良プログラマー</a>
+      <a href="https://github.com/ab25cq">ab25cq</a>
     </td>
     <td align="center">
       <a href="https://github.com/freemanpeng">
@@ -108,18 +108,18 @@ You can connect me by
       <a href="https://github.com/Vanisper">Vanisper</a>
     </td>
     <td align="center">
-      <a href="https://github.com/LesslsMore">
-        <img src="https://avatars2.githubusercontent.com/u/39825147" width="100px;" alt="LesslsMore"/>
-      </a>
-      <br />
-      <a href="https://github.com/LesslsMore">LesslsMore</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/keyasu">
         <img src="https://avatars2.githubusercontent.com/u/17979751" width="100px;" alt="keyasu"/>
       </a>
       <br />
       <a href="https://github.com/keyasu">Hand of the King</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LesslsMore">
+        <img src="https://avatars2.githubusercontent.com/u/39825147" width="100px;" alt="LesslsMore"/>
+      </a>
+      <br />
+      <a href="https://github.com/LesslsMore">LesslsMore</a>
     </td>
     <td align="center">
       <a href="https://github.com/EVINK">
