@@ -151,12 +151,12 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       12 hrs 6 mins   █████████████▒░░░░░░░░░░░   53.11 %
-sh               5 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
-Vue.js           2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-JavaScript       1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-yarn.lock        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-GitIgnore file   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript       8 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   39.13 %
+sh               5 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.62 %
+Vue.js           4 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
+JavaScript       1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+.env file        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+yarn.lock        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
