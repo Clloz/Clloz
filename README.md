@@ -50,18 +50,18 @@ You can connect me by
       <a href="https://github.com/ab25cq">ab25cq</a>
     </td>
     <td align="center">
-      <a href="https://github.com/RyzeChang">
-        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="RyzeChang"/>
-      </a>
-      <br />
-      <a href="https://github.com/RyzeChang">Ryze</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/freemanpeng">
         <img src="https://avatars2.githubusercontent.com/u/37547040" width="100px;" alt="freemanpeng"/>
       </a>
       <br />
       <a href="https://github.com/freemanpeng">freemanpeng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RyzeChang">
+        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="RyzeChang"/>
+      </a>
+      <br />
+      <a href="https://github.com/RyzeChang">Ryze</a>
     </td>
     <td align="center">
       <a href="https://github.com/prcups">
