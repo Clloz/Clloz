@@ -71,11 +71,11 @@ You can connect me by
       <a href="https://github.com/AlexStacker">AlexStacker</a>
     </td>
     <td align="center">
-      <a href="https://github.com/SedationH">
-        <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="SedationH"/>
+      <a href="https://github.com/sedationh">
+        <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="sedationh"/>
       </a>
       <br />
-      <a href="https://github.com/SedationH">SedationH</a>
+      <a href="https://github.com/sedationh">SedationH</a>
     </td>
     <td align="center">
       <a href="https://github.com/lianyunvjue">
