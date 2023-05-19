@@ -101,6 +101,13 @@ You can connect me by
       <a href="https://github.com/Vanisper">Vanisper</a>
     </td>
     <td align="center">
+      <a href="https://github.com/dc-wh">
+        <img src="https://avatars2.githubusercontent.com/u/64949641" width="100px;" alt="dc-wh"/>
+      </a>
+      <br />
+      <a href="https://github.com/dc-wh">Jeppard</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/keyasu">
         <img src="https://avatars2.githubusercontent.com/u/17979751" width="100px;" alt="keyasu"/>
       </a>
@@ -134,13 +141,6 @@ You can connect me by
       </a>
       <br />
       <a href="https://github.com/gzg1023">清尘</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RyzeChang">
-        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="RyzeChang"/>
-      </a>
-      <br />
-      <a href="https://github.com/RyzeChang">Ryze</a>
     </td>
   </tr>
 </table>
