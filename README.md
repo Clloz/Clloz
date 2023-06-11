@@ -140,7 +140,7 @@ You can connect me by
         <img src="https://avatars2.githubusercontent.com/u/25383924" width="100px;" alt="gzg1023"/>
       </a>
       <br />
-      <a href="https://github.com/gzg1023">清尘</a>
+      <a href="https://github.com/gzg1023">gzg1023</a>
     </td>
   </tr>
 </table>
