@@ -151,11 +151,11 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```txt
-sh               3 hrs 3 mins    █████████████████████░░░░   83.67 %
-HTML             24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-TypeScript       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Prettier File    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+sh               3 hrs 33 mins   █████████████████████▒░░░   85.60 %
+HTML             24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+TypeScript       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Prettier File    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
