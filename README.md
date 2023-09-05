@@ -64,18 +64,18 @@ You can connect me by
       <a href="https://github.com/prcups">SignKirigami</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sedationh">
-        <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="sedationh"/>
-      </a>
-      <br />
-      <a href="https://github.com/sedationh">SedationH</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AlexStacker">
         <img src="https://avatars2.githubusercontent.com/u/7822744" width="100px;" alt="AlexStacker"/>
       </a>
       <br />
       <a href="https://github.com/AlexStacker">AlexStacker</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sedationh">
+        <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="sedationh"/>
+      </a>
+      <br />
+      <a href="https://github.com/sedationh">SedationH</a>
     </td>
     <td align="center">
       <a href="https://github.com/lianyunvjue">
@@ -136,11 +136,11 @@ You can connect me by
       <a href="https://github.com/wenxiuceo">momo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gzg1023">
-        <img src="https://avatars2.githubusercontent.com/u/25383924" width="100px;" alt="gzg1023"/>
+      <a href="https://github.com/oozeRyze">
+        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="oozeRyze"/>
       </a>
       <br />
-      <a href="https://github.com/gzg1023">gzg1023</a>
+      <a href="https://github.com/oozeRyze">Ryze</a>
     </td>
   </tr>
 </table>
