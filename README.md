@@ -151,11 +151,7 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```txt
-sh           11 mins         ██████████████▒░░░░░░░░░░   56.86 %
-Ezhil        7 mins          █████████▒░░░░░░░░░░░░░░░   37.95 %
-ObjectiveC   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Vue.js       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+sh   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
