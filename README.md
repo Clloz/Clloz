@@ -64,13 +64,6 @@ You can connect me by
       <a href="https://github.com/prcups">SignKirigami</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sedationh">
-        <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="sedationh"/>
-      </a>
-      <br />
-      <a href="https://github.com/sedationh">SedationH</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AlexStacker">
         <img src="https://avatars2.githubusercontent.com/u/7822744" width="100px;" alt="AlexStacker"/>
       </a>
@@ -78,11 +71,11 @@ You can connect me by
       <a href="https://github.com/AlexStacker">AlexStacker</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lianyunvjue">
-        <img src="https://avatars2.githubusercontent.com/u/39094541" width="100px;" alt="lianyunvjue"/>
+      <a href="https://github.com/sedationh">
+        <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="sedationh"/>
       </a>
       <br />
-      <a href="https://github.com/lianyunvjue">Nicky</a>
+      <a href="https://github.com/sedationh">SedationH</a>
     </td>
     <td align="center">
       <a href="https://github.com/QiuYeDx">
@@ -90,6 +83,13 @@ You can connect me by
       </a>
       <br />
       <a href="https://github.com/QiuYeDx">Bai Zihan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lianyunvjue">
+        <img src="https://avatars2.githubusercontent.com/u/39094541" width="100px;" alt="lianyunvjue"/>
+      </a>
+      <br />
+      <a href="https://github.com/lianyunvjue">Nicky</a>
     </td>
   </tr>
   <tr>
