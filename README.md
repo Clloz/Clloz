@@ -108,6 +108,13 @@ You can connect me by
       <a href="https://github.com/T0nyDawn">TonyDawn</a>
     </td>
     <td align="center">
+      <a href="https://github.com/vgoer">
+        <img src="https://avatars2.githubusercontent.com/u/97332512" width="100px;" alt="vgoer"/>
+      </a>
+      <br />
+      <a href="https://github.com/vgoer">vgoer</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/LesslsMore">
         <img src="https://avatars2.githubusercontent.com/u/39825147" width="100px;" alt="LesslsMore"/>
       </a>
@@ -134,13 +141,6 @@ You can connect me by
       </a>
       <br />
       <a href="https://github.com/wenxiuceo">momo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/oozeRyze">
-        <img src="https://avatars2.githubusercontent.com/u/36540932" width="100px;" alt="oozeRyze"/>
-      </a>
-      <br />
-      <a href="https://github.com/oozeRyze">Ryze</a>
     </td>
   </tr>
 </table>
