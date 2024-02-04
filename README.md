@@ -151,7 +151,10 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```txt
-sh   20 mins         █████████████████████████   100.00 %
+sh           55 mins         █████████████▓░░░░░░░░░░░   55.17 %
+textmate     37 mins         █████████▒░░░░░░░░░░░░░░░   37.30 %
+HTML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
