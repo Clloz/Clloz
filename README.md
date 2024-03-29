@@ -151,9 +151,7 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```txt
-sh           1 hr 42 mins    ████████████████████████░   96.15 %
-TypeScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+sh   1 hr 37 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
