@@ -94,18 +94,18 @@ You can connect me by
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/vgoer">
-        <img src="https://avatars2.githubusercontent.com/u/97332512" width="100px;" alt="vgoer"/>
-      </a>
-      <br />
-      <a href="https://github.com/vgoer">vgoer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Vanisper">
         <img src="https://avatars2.githubusercontent.com/u/55046983" width="100px;" alt="Vanisper"/>
       </a>
       <br />
       <a href="https://github.com/Vanisper">Vanisper</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vgoer">
+        <img src="https://avatars2.githubusercontent.com/u/97332512" width="100px;" alt="vgoer"/>
+      </a>
+      <br />
+      <a href="https://github.com/vgoer">vgoer</a>
     </td>
     <td align="center">
       <a href="https://github.com/T0nyDawn">
