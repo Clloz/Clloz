@@ -43,6 +43,13 @@ You can connect me by
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/deepsea514">
+        <img src="https://avatars2.githubusercontent.com/u/74522790" width="100px;" alt="deepsea514"/>
+      </a>
+      <br />
+      <a href="https://github.com/deepsea514">Deep Sea</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ab25cq">
         <img src="https://avatars2.githubusercontent.com/u/3233635" width="100px;" alt="ab25cq"/>
       </a>
@@ -84,6 +91,8 @@ You can connect me by
       <br />
       <a href="https://github.com/QiuYeDx">Bai Zihan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lianyunvjue">
         <img src="https://avatars2.githubusercontent.com/u/39094541" width="100px;" alt="lianyunvjue"/>
@@ -91,8 +100,6 @@ You can connect me by
       <br />
       <a href="https://github.com/lianyunvjue">Nicky</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Vanisper">
         <img src="https://avatars2.githubusercontent.com/u/55046983" width="100px;" alt="Vanisper"/>
@@ -134,13 +141,6 @@ You can connect me by
       </a>
       <br />
       <a href="https://github.com/keyasu">Hand of the King</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wenxiuceo">
-        <img src="https://avatars2.githubusercontent.com/u/41312718" width="100px;" alt="wenxiuceo"/>
-      </a>
-      <br />
-      <a href="https://github.com/wenxiuceo">momo</a>
     </td>
   </tr>
 </table>
