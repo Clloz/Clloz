@@ -151,7 +151,8 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+sh       15 mins         ████████████████████████▓   98.31 %
+Vue.js   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
