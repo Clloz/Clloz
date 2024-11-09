@@ -85,20 +85,20 @@ You can connect me by
       <a href="https://github.com/sedationh">Holden Hu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Vanisper">
-        <img src="https://avatars2.githubusercontent.com/u/55046983" width="100px;" alt="Vanisper"/>
-      </a>
-      <br />
-      <a href="https://github.com/Vanisper">Vanisper</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/QiuYeDx">
         <img src="https://avatars2.githubusercontent.com/u/71062076" width="100px;" alt="QiuYeDx"/>
       </a>
       <br />
       <a href="https://github.com/QiuYeDx">Bai Zihan</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Vanisper">
+        <img src="https://avatars2.githubusercontent.com/u/55046983" width="100px;" alt="Vanisper"/>
+      </a>
+      <br />
+      <a href="https://github.com/Vanisper">Vanisper</a>
     </td>
     <td align="center">
       <a href="https://github.com/lianyunvjue">
