@@ -136,11 +136,11 @@ You can connect me by
       <a href="https://github.com/EVINK">EvinK</a>
     </td>
     <td align="center">
-      <a href="https://github.com/keyasu">
-        <img src="https://avatars2.githubusercontent.com/u/17979751" width="100px;" alt="keyasu"/>
+      <a href="https://github.com/Ian-HL">
+        <img src="https://avatars2.githubusercontent.com/u/13363533" width="100px;" alt="Ian-HL"/>
       </a>
       <br />
-      <a href="https://github.com/keyasu">Hand of the King</a>
+      <a href="https://github.com/Ian-HL">HL-Ian</a>
     </td>
   </tr>
 </table>
