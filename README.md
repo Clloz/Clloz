@@ -57,13 +57,6 @@ You can connect me by
       <a href="https://github.com/prcups">SignKirigami</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AlexStacker">
-        <img src="https://avatars2.githubusercontent.com/u/7822744" width="100px;" alt="AlexStacker"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlexStacker">AlexStacker</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sedationh">
         <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="sedationh"/>
       </a>
@@ -76,6 +69,13 @@ You can connect me by
       </a>
       <br />
       <a href="https://github.com/freemanpeng">freemanpeng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlexStacker">
+        <img src="https://avatars2.githubusercontent.com/u/7822744" width="100px;" alt="AlexStacker"/>
+      </a>
+      <br />
+      <a href="https://github.com/AlexStacker">AlexStacker</a>
     </td>
     <td align="center">
       <a href="https://github.com/QiuYeDx">
