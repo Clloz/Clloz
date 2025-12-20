@@ -151,11 +151,11 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 hrs 29 mins  ██████████████████████▒░░   89.35 %
-JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Vue.js       52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-TSConfig     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+TypeScript   19 hrs 9 mins   ███████████████████▓░░░░░   78.99 %
+JSON         2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+JavaScript   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Vue.js       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Markdown     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
