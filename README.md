@@ -64,18 +64,18 @@ You can connect me by
       <a href="https://github.com/Vanisper">Vanisper</a>
     </td>
     <td align="center">
-      <a href="https://github.com/vgoer">
-        <img src="https://avatars2.githubusercontent.com/u/97332512" width="100px;" alt="vgoer"/>
-      </a>
-      <br />
-      <a href="https://github.com/vgoer">vgoer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sedationh">
         <img src="https://avatars2.githubusercontent.com/u/56129212" width="100px;" alt="sedationh"/>
       </a>
       <br />
       <a href="https://github.com/sedationh">Holden Hu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vgoer">
+        <img src="https://avatars2.githubusercontent.com/u/97332512" width="100px;" alt="vgoer"/>
+      </a>
+      <br />
+      <a href="https://github.com/vgoer">vgoer</a>
     </td>
     <td align="center">
       <a href="https://github.com/freemanpeng">
