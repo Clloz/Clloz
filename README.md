@@ -151,7 +151,8 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   4 hrs 1 min           ████████████████░░░░░░░░░   63.82 %
+Vue.js       2 hrs 16 mins         █████████░░░░░░░░░░░░░░░░   36.18 %
 ```
 
 <!--END_SECTION:waka-->
