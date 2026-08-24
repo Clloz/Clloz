@@ -50,18 +50,18 @@ You can connect me by
       <a href="https://github.com/ab25cq">湊大典</a>
     </td>
     <td align="center">
-      <a href="https://github.com/prcups">
-        <img src="https://avatars2.githubusercontent.com/u/20960986" width="100px;" alt="prcups"/>
-      </a>
-      <br />
-      <a href="https://github.com/prcups">SignKirigami</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vgoer">
         <img src="https://avatars2.githubusercontent.com/u/97332512" width="100px;" alt="vgoer"/>
       </a>
       <br />
       <a href="https://github.com/vgoer">vgoer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prcups">
+        <img src="https://avatars2.githubusercontent.com/u/20960986" width="100px;" alt="prcups"/>
+      </a>
+      <br />
+      <a href="https://github.com/prcups">SignKirigami</a>
     </td>
     <td align="center">
       <a href="https://github.com/sedationh">
