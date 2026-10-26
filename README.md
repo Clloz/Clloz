@@ -151,9 +151,8 @@ You can connect me by
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   48 mins               ███████████████░░░░░░░░░░   59.87 %
-Markdown     31 mins               ██████████░░░░░░░░░░░░░░░   39.75 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript   47 mins               ██████████████████████▒░░   89.62 %
+Markdown     5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
 ```
 
 <!--END_SECTION:waka-->
